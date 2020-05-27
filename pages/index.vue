@@ -21,7 +21,7 @@
             </p>
 
             <span v-else>
-                <nuxt-link to="/users">To the list of users</nuxt-link>
+                <nuxt-link to="/users">To the list of users.</nuxt-link>
             </span>
         </div>
     </div>
