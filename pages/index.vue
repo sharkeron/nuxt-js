@@ -8,13 +8,12 @@
             <p>The application is created using the following technologies:</p>
 
             <ul>
-                <li>Vue.js;</li>
+                <li>Vue.js (Typesctipt);</li>
                 <li>VueX;</li>
                 <li>Nuxt.js.</li>
             </ul>
 
-            <p>Data is requested from <a class=""
-                                         href="https://randomuser.me"
+            <p>Data is requested from <a href="https://randomuser.me"
                                          target="_blank">randomuser.me</a></p>
 
             <p v-if="!hasToken">For further interaction, need authorization on the
