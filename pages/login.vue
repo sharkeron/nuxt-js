@@ -57,7 +57,7 @@
                 },
                 head() {
                     return {
-                        title: 'Страница входа',
+                        title: 'Login page',
                     };
                 },
                 data(): LoginPageDataInterface {
