@@ -21,7 +21,9 @@ export default {
   /*
   ** Global CSS
   */
-  css: [],
+  css: [
+    '~/node_modules/bootstrap/dist/css/bootstrap.min.css',
+  ],
   /*
   ** Plugins to load before mounting the App
   */
